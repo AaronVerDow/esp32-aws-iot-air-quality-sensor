@@ -1,0 +1,6 @@
+[submodule "components/arduino-esp32"]
+	path = components/arduino-esp32
+	url = https://github.com/espressif/arduino-esp32.git
+[submodule "components/esp32-aws-iot"]
+	path = components/esp32-aws-iot
+	url = https://github.com/jandelgado/esp32-aws-iot.git
