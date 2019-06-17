@@ -4,3 +4,24 @@
 [submodule "components/esp32-aws-iot"]
 	path = components/esp32-aws-iot
 	url = https://github.com/jandelgado/esp32-aws-iot.git
+[submodule "components/ssd1306"]
+	path = components/ssd1306
+	url = https://github.com/lexus2k/ssd1306.git
+[submodule "components/ArduinoJson"]
+	path = components/ArduinoJson
+	url = https://github.com/bblanchon/ArduinoJson
+[submodule "components/NTPClient"]
+	path = components/NTPClient
+	url = https://github.com/arduino-libraries/NTPClient.git
+[submodule "components/DHT-sensor-library"]
+	path = components/DHT-sensor-library
+	url = https://github.com/adafruit/DHT-sensor-library.git
+[submodule "components/Adafruit_Sensor"]
+	path = components/Adafruit_Sensor
+	url = https://github.com/adafruit/Adafruit_Sensor.git
+[submodule "components/esp8266-oled-ssd1306"]
+	path = components/esp8266-oled-ssd1306
+	url = https://github.com/ThingPulse/esp8266-oled-ssd1306.git
+[submodule "components/SDS011"]
+	path = components/SDS011
+	url = https://github.com/bertmelis/SDS011
